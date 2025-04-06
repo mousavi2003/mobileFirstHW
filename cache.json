@@ -1,0 +1,20 @@
+{
+  "fatemeh": {
+    "user": {
+      "login": "fatemeh",
+      "followers": 3,
+      "following": 0,
+      "created_at": "2010-04-06T17:59:13Z"
+    },
+    "repos": []
+  },
+  "fa": {
+    "user": {
+      "login": "fa",
+      "followers": 10,
+      "following": 0,
+      "created_at": "2008-02-27T23:01:44Z"
+    },
+    "repos": []
+  }
+}
